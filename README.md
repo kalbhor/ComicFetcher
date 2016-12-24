@@ -2,9 +2,11 @@
 **Downloads the top comics of the day from specified website**
 
 ## Install : 
-Python 2.x
-``` pip install comicfetcher 
-``` 
+Python 2.x 
+```sh
+pip install comicfetcher
+ ```
+
 Python 3.x
 ```sh
   pip3 install comicfetcher
