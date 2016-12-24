@@ -9,7 +9,7 @@ pip install comicfetcher
 
 Python 3.x
 ```sh
-  pip3 install comicfetcher
+pip3 install comicfetcher
 ```
 
 ## How to use : 
