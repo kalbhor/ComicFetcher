@@ -3,23 +3,23 @@
 
 ## Install : 
 Python 2.x 
-```sh
+```
 pip install comicfetcher
  ```
 
 Python 3.x
-```sh
+```
 pip3 install comicfetcher
 ```
 
 ## How to use : 
 
-``` sh
+``` 
 comicfetcher --[website]
 ```
 
 ## Options :
-```sh
+```
 usage: comicfetcher [-h] [--cyanide] [--xkcd]
 
 Download various comics
